@@ -1,0 +1,44 @@
+body {
+  background: darkcyan;
+  align-items: center;
+
+}
+h1 {
+font-family: 'Lobster', cursive;
+font-weight: lighter;
+font-size: 2em;
+color: GhostWhite;
+}
+h2 {
+font-family: 'Lobster', cursive;
+font-weight: lighter;
+font-size: 1.5em;
+color: GhostWhite;
+}
+hr {
+  align: center;
+  color: lightgrey;
+  width: 100%;
+  size: 2px;
+}
+p {
+  color: GhostWhite;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size:1.25em;
+}
+a {
+  color: LightCoral;
+}
+.wrapper {
+  width: 800px;
+  margin: 0 auto;
+  padding-left: 0;
+  padding-right: 0;
+}
+img {
+  padding: 2em;
+}
+img.center {
+  display: block;
+  margin: 0 auto;
+}
